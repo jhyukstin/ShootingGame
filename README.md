@@ -20,6 +20,6 @@
 
 
 ## Author
-  - [jhyukstin](https://github.com/jhyukstin) - **JaeHyuk Choi** - <jaehyuk0516@gmail.com>
+  - [jhyukstin](https://github.com/jhyukstin) - **Jaehyuk Choi** - <jaehyuk0516@gmail.com>
 
 
